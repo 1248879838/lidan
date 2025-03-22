@@ -6,7 +6,7 @@ format: html
 body {
     background-image: url('back.jpg');
     background-repeat: no-repeat;
-    background-size: 88% auto; 
+    background-size: 100% auto; 
 }
 </style>
 # 个人信息
