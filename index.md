@@ -2,12 +2,7 @@
 title: "个人简历"
 format: html
 ---
-<style>
-body {
-    background-image: url('back.jpg');
-    background-repeat: no-repeat;
-    background-size: 100% auto; 
-}
+![示例图片](back.jpg)
 </style>
 # 个人信息
 - 姓名：李丹
