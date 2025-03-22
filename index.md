@@ -1,4 +1,7 @@
 ---
+<div style="color: blue; font-size: 18px;">
+这是一段带有蓝色字体和18px字号的文字。
+</div>
 title: "个人简历"
 format: html
 ---
