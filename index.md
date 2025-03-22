@@ -10,9 +10,8 @@ format: html
 </head>
 <body style="background-image: url('back.jpg'); background-repeat: no-repeat; background-size: cover;">
 # 个人简历
-姓名：李丹
-
 ## 个人信息
+- 姓名：李丹
 - 生日：1999.12.13
 - 籍贯：湖北宣恩
 - 学历：华中农业大学
